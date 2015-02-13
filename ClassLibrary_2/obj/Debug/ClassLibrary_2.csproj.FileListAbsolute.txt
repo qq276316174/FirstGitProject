@@ -1,5 +1,0 @@
-E:\NuGet\ClassLibrary_2\ClassLibrary_2\bin\Debug\ClassLibrary_2.dll
-E:\NuGet\ClassLibrary_2\ClassLibrary_2\bin\Debug\ClassLibrary_2.pdb
-E:\NuGet\ClassLibrary_2\ClassLibrary_2\obj\Debug\ClassLibrary_2.csprojResolveAssemblyReference.cache
-E:\NuGet\ClassLibrary_2\ClassLibrary_2\obj\Debug\ClassLibrary_2.dll
-E:\NuGet\ClassLibrary_2\ClassLibrary_2\obj\Debug\ClassLibrary_2.pdb
