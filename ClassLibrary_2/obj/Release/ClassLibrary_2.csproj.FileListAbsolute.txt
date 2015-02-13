@@ -1,0 +1,7 @@
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\bin\Release\ClassLibrary_2.dll
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\bin\Release\ClassLibrary_2.pdb
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\obj\Release\ClassLibrary_2.dll
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\obj\Release\ClassLibrary_2.pdb
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\bin\Release\ClassLibrary.dll
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\bin\Release\ClassLibrary.Models.dll
+E:\NuGet\ClassLibrary_2\ClassLibrary_2\obj\Release\ClassLibrary_2.csprojResolveAssemblyReference.cache
